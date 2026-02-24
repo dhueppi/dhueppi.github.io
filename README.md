@@ -18,6 +18,6 @@ Stationen:
 |17:00 |Pfäffikon |**Capolinea**|
 |18:00 |Hurden
 |19:00 |Rapperswil 
-|20:00 |Kempraten |**Gleis 1**|
+|20:00 |Kempraten 
 |21:00 |Feldbach 
-|22:00 |Uerikon
+|22:00 |Uerikon |**Gleis 1**|
