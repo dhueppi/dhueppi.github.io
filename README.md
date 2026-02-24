@@ -16,8 +16,8 @@ Stationen:
 |15:00 |Wilen
 |16:00 |Freienbach |**Bahnhöfli**|
 |17:00 |Pfäffikon |**Capolinea**|
-|18:00 |Hurden
-|19:00 |Rapperswil 
-|20:00 |Kempraten 
-|21:00 |Feldbach 
-|22:00 |Uerikon |**Gleis 1**|
+|17:30 |Hurden
+|18:00 |Rapperswil 
+|18:30 |Kempraten
+|18:45 |Feldbach 
+|19:00 |Uerikon |**Gleis 1**|
