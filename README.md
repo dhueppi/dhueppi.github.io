@@ -9,10 +9,11 @@ Stationen:
 |Abfahrt|Bahnhof  |Pub         |
 |------|----------|------------|
 |10:00 |Einsiedeln| **Isebähnli**|
-|11:00 |Biberbrugg
-|12:00 |Schindellegi 
-|13:00 |Samstagern
-|14:00 |Wollerau |**Bahnhöfli**|
+|11:11 |Abfahrt in| Einsiedeln Bhf|
+|11:25 |Durchfahrt| Biberbrugg |
+|11:29 |Durchfahrt| Schindellegi |
+|11:33 |Durchfahrt| Samstagern |
+|11:45 |Wollerau |**Bahnhöfli**|
 |15:00 |Wilen
 |16:00 |Freienbach |**Bahnhöfli**|
 |17:00 |Pfäffikon |**Capolinea**|
