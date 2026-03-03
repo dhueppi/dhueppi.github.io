@@ -14,11 +14,10 @@ Stationen:
 |11:29 |Durchfahrt| Schindellegi |
 |11:33 |Durchfahrt| Samstagern |
 |11:45 |Wollerau |**Bahnhöfli**|
-|15:00 |Wilen
-|16:00 |Freienbach |**Bahnhöfli**|
-|17:00 |Pfäffikon |**Capolinea**|
-|17:30 |Hurden
-|18:00 |Rapperswil 
-|18:30 |Kempraten
-|18:45 |Feldbach 
-|19:00 |Uerikon |**Gleis 1**|
+|13:07 |Abfahrt in| Wollerau Bhf|
+|13:13 |Freienbach |Durchfahrt|
+|13:16 |Pfäffikon |**Capolinea**|
+|14:30 |Loslaufen in| Pfäffikon|
+|16:30 |Rapperswil |**Nelson**|
+|18:08 |Abfahrt in|Rapperswil|
+|18:30 |Uerikon |**Gleis 1**|
